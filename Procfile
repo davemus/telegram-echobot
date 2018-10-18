@@ -1,1 +1,1 @@
-web: python3 handler.py
+bot: python3 handler.py
